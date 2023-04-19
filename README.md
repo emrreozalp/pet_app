@@ -1,5 +1,7 @@
 # pet_app
 
+![Screenshot](Screenshot_1679162703.png)
+
 A new Flutter project.
 
 ## Getting Started
